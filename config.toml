@@ -7,4 +7,5 @@ title = 'My Hugo Site'
 
 
 [permalinks]
-  blog = "/:filename/"
+  blog = "/blog/:filename/"
+  news = "/news/:filename/"
