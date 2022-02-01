@@ -18,4 +18,4 @@ fields:
   label: Content
 pages:
 - content/hello-world.md
-- content/news/**/*/march.md
+- content/news/april.md
